@@ -7,12 +7,13 @@
 - **Institución**: Instituto Superior Politécnico Córdoba (ISPC)
 - **Curso**: Proyecto Integrador I
 - **Docente**: Cristian Gonzalo Vera
-- **Equipo de Desarrollo [nombre del quipo]**:
-  - Integrante 1
-  - Integrante 2
-  - Integrante 3
-  - Integrante 4
-  - (Añadir más integrantes según corresponda)
+- **Equipo de Desarrollo [JADE]**:
+  - Integrante 1: Fernández Daiana Belén
+  - Integrante 2: Karen Micaela Ruffino
+  - Integrante 3: Romina Huk
+  - Integrante 4: Claudio Nicolas Roldan 
+  - Integrante 5: Paola Natalia Alejandra Pantoja
+  - Integrante 6: Marcos Bordón Rios
 
 ## Sobre el Proyecto
 
