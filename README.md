@@ -10,11 +10,11 @@
 - **Curso**: Proyecto Integrador I
 - **Docente**: Cristian Gonzalo Vera
 - **Equipo de Desarrollo [nombre del quipo]**:
-  - Integrante 1
-  - Integrante 2
-  - Integrante 3
-  - Integrante 4
-  - (Añadir más integrantes según corresponda)
+  - Tiziano Adrian Paez - [GitHub tpaez](https://github.com/tpaez)
+  - Romina Huk - [GitHub RoHu17](https://github.com/RoHu17)
+  - Paola Natalia Alejandra Pantoja - [GitHub PaolaaPantoja](https://github.com/PaolaaPantoja)
+  - Claudio Nicolas Roldan - [GitHub ClaudioNR22](https://github.com/ClaudioNR22)
+  - Marcos Bordón Rios - [GitHub Marcos-BR-03](https://github.com/Marcos-BR-03)
 
 ## Sobre el Proyecto
 
