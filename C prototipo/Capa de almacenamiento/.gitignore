@@ -1,0 +1,36 @@
+# -*- coding: utf-8 -*-
+__pycache__
+
+# Ignore node_modules
+node_modules/
+
+# Ignore Docker images and containers
+docker/images/*.tar
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore test coverage results
+coverage/
+*.cover
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore Docker container data
+docker/mysql/mysql_data/
+docker/mongo/mongo_data/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
